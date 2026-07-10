@@ -1,5 +1,3 @@
-# PHUNGVANCHIEN
-20222708-oss
 # Hi there, I'm Phùng Văn Chiến 👋
 
 I'm a passionate Fullstack Developer from Vietnam.
