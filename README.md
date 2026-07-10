@@ -30,7 +30,7 @@ I'm a passionate Fullstack Developer from Vietnam.
 ## 🌟 Featured Project
 
 ### 🤖 trợ lý ảo-jarvis
-* Mô tả ngắn gọn về dự án trợ lý ảo của bạn ở đây.
+* Mô tả ngắn gọn về dự án trợ lý ảo của tôi ở đây.
 * 🔗 **Repository**: [https://github.com/20222708-oss/tro-ly-ao-jarvis](https://github.com/20222708-oss/tro-ly-ao-jarvis)
 
 ---
